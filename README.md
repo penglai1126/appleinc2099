@@ -1,4 +1,4 @@
-[png](https://github.com/penglai1126/appleinc2099/blob/1f4a694a127dca320613154967f5f595e3fa0d87/20241017_202610.png)
+![png](https://github.com/penglai1126/appleinc2099/blob/1f4a694a127dca320613154967f5f595e3fa0d87/20241017_202610.png)
 
 # 《民国私情小说二十部》深度解析
 
